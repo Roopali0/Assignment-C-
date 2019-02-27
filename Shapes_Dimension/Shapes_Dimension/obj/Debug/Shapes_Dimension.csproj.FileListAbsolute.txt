@@ -1,0 +1,7 @@
+C:\Users\Dashy\source\repos\Shapes_Dimension\Shapes_Dimension\bin\Debug\Shapes_Dimension.exe.config
+C:\Users\Dashy\source\repos\Shapes_Dimension\Shapes_Dimension\bin\Debug\Shapes_Dimension.exe
+C:\Users\Dashy\source\repos\Shapes_Dimension\Shapes_Dimension\bin\Debug\Shapes_Dimension.pdb
+C:\Users\Dashy\source\repos\Shapes_Dimension\Shapes_Dimension\obj\Debug\Shapes_Dimension.csprojAssemblyReference.cache
+C:\Users\Dashy\source\repos\Shapes_Dimension\Shapes_Dimension\obj\Debug\Shapes_Dimension.csproj.CoreCompileInputs.cache
+C:\Users\Dashy\source\repos\Shapes_Dimension\Shapes_Dimension\obj\Debug\Shapes_Dimension.exe
+C:\Users\Dashy\source\repos\Shapes_Dimension\Shapes_Dimension\obj\Debug\Shapes_Dimension.pdb
